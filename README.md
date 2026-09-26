@@ -1,13 +1,13 @@
-# TailorCraft AI 🚀
+# CareerOps-CLI 🚀
 
-An end-to-end, AI-powered automation suite designed to streamline the co-op and internship application process. TailorCraft AI combines a full-stack web dashboard with headless browser automation and Large Language Models (LLMs) to automatically tailor LaTeX resumes to specific job descriptions and asynchronously scrape, score, and rank job leads from university career portals.
+An end-to-end, AI-powered automation suite designed to streamline the co-op and internship application process. CareerOps-CLI combines a full-stack web dashboard with headless browser automation and Large Language Models (LLMs) to automatically tailor LaTeX resumes to specific job descriptions and asynchronously scrape, score, and rank job leads from university career portals.
 
-![TailorCraft AI UI](https://via.placeholder.com/1000x500.png?text=Add+a+Screenshot+of+your+React+UI+Here)
+![CareerOps-CLI UI](https://via.placeholder.com/1000x500.png?text=Add+a+Screenshot+of+your+React+UI+Here)
 
 ## 💡 The Problem & The Solution
 Applying to hundreds of co-op positions requires tedious, repetitive work: tweaking resume bullet points for ATS systems, writing cover letters, and manually clicking through paginated job boards. 
 
-**TailorCraft** automates the entire pipeline:
+**CareerOps-CLI** automates the entire pipeline:
 1. **The Portal Scanner** navigates behind university SSO firewalls (using Playwright), evaluates hundreds of job descriptions against a candidate's profile using Google Gemini, and outputs a ranked Markdown lead report.
 2. **The Resume Tailor** takes a master LaTeX template, scrapes a target job URL, intelligently injects ATS-optimized keywords into the LaTeX source, and natively compiles a merged PDF bundle (Cover Letter + Resume) ready for submission.
 
@@ -54,8 +54,8 @@ Applying to hundreds of co-op positions requires tedious, repetitive work: tweak
 
 ### 1. Clone & Configure
 ```bash
-git clone [https://github.com/AbdulMonamHaroon/tailorcraft-ai.git](https://github.com/AbdulMonamHaroon/tailorcraft-ai.git)
-cd tailorcraft-ai
+git clone [https://github.com/a-monam36/CareerOps-CLI.git](https://github.com/a-monam36/CareerOps-CLI.git)
+cd CareerOps-CLI
 
 # Create the environment variables file
 echo "GEMINI_API_KEY=your_api_key_here" > .env

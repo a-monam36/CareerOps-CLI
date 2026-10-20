@@ -2,7 +2,7 @@
 
 An end-to-end, AI-powered automation suite designed to streamline the co-op and internship application process. CareerOps-CLI combines a full-stack web dashboard with headless browser automation and Large Language Models (LLMs) to automatically tailor LaTeX resumes to specific job descriptions and asynchronously scrape, score, and rank job leads from university career portals.
 
-![CareerOps-CLI UI](https://via.placeholder.com/1000x500.png?text=Add+a+Screenshot+of+your+React+UI+Here)
+
 
 ## 💡 The Problem & The Solution
 Applying to hundreds of co-op positions requires tedious, repetitive work: tweaking resume bullet points for ATS systems, writing cover letters, and manually clicking through paginated job boards. 

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 CareerOps-CLI
+# 🚀 TailorCraft-AI
 **AI-Powered Job Application & Portal Automation Suite**
 
 [![React](https://img.shields.io/badge/React-18.x-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)

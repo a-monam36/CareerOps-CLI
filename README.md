@@ -55,8 +55,8 @@ https://github.com/user-attachments/assets/8613d63a-6817-47be-b7bd-e48900b5acf2
 
 ### 1. Clone & Configure
 ```bash
-git clone [https://github.com/a-monam36/CareerOps-CLI.git](https://github.com/a-monam36/CareerOps-CLI.git)
-cd CareerOps-CLI
+git clone [https://github.com/a-monam36/tailorcraft-ai.git](https://github.com/a-monam36/tailorcraft-ai.git)
+cd tailorcraft-ai
 
 # Create the environment variables file in the root directory
 echo "GEMINI_API_KEY=your_api_key_here" > .env
